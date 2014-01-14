@@ -1,5 +1,6 @@
 require 'rake/clean'
 
+build_dir = 'build'
 merge_dir = 'source'
 modules = ['diddleman', 'den.domain', 'site']
 
@@ -18,4 +19,4 @@ task :merge do
     end
 end
 
-CLEAN.include merge_dir
+CLEAN.include merge_dir, build_dir
