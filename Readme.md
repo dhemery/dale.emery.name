@@ -1,4 +1,6 @@
 dale.emery.name
 ===============
 
-Dale Emery's personal web site.
+Source code for
+Dale's personal web site:
+_[dale.emery.name](http://dale.emery.name/)_.

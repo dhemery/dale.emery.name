@@ -1,7 +1,3 @@
-page "/*", layout: "article"
-page '/genealogy/*', layout: false, directory_index: false
+# Delegate to diddleman's config.rb file
+eval(File.read(File.join('diddleman', 'config.rb')))
 
-configure :build do
-end
-
-activate :directory_indexes
