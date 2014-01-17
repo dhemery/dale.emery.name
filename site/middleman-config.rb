@@ -1,4 +1,5 @@
-set :layout, 'article'
+$middleman.set :layout, 'article'
+$middleman.page '/genealogy/*', layout: false, directory_index: false
 
-puts "Loading site middleman config"
-activate :directory_indexes
+$middleman.activate :directory_indexes
+
