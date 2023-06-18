@@ -1,4 +1,4 @@
-/.bundle/
-/.sass-cache/
-/build/
+public/
+resources/
+.hugo_build.lock
 

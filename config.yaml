@@ -1,0 +1,12 @@
+baseURL: https://dale.emery.name
+languageCode: en-us
+title: dale.emery.name
+copyright: © 2003–2023 Dale H. Emery
+disableKinds:
+    - taxonomy
+    - term
+    - tags
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
