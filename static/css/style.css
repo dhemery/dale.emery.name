@@ -1,0 +1,6 @@
+@layer base {
+	:root {
+		--USER-HUE: 180;
+		--USER-FLOW-WIDTH: 60ch;
+	}
+}

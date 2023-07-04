@@ -1,5 +1,5 @@
 ---
-title: dale.emery charts a path
+title: Dale
 ---
 
  - My blog: [Twelfth Root of Two](http://trot.dale.emery.name).
