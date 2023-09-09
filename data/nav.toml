@@ -12,4 +12,8 @@ url = '/genealogy/'
 
 [[link]]
 title = 'Blog'
-url = 'https://trot.dale.emery.name'
+url = '/posts/'
+
+[[link]]
+title = 'Tags'
+url = '/tags/'

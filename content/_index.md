@@ -1,7 +1,7 @@
 ---
-title: Dale
+title: Home
 ---
 
- - My blog: [Twelfth Root of Two](http://trot.dale.emery.name).
+ - My [blog](/posts/) (formerly known as _Twelfth Root of Two_)
  - [Songs](/songs/) my friends and I wrote and recorded.
  - My [family genealogy](/genealogy/).
