@@ -1,4 +1,4 @@
---- 
+---
 title: I Thought We Were Going to Get Through the Day...
 tags:
 - My Day
@@ -68,7 +68,7 @@ No longer jumping,
 but running full speed in random directions and bashing head first into the fence.
 And it started foaming at the mouth.
 
-[<img src="/photos/unscathed/bench.jpg" align="right" width="200" />](/photos/unscathed/bench.jpg)
+[<img src="/images/unscathed/bench.jpg" align="right" width="200" />](/images/unscathed/bench.jpg)
 I called animal control,
 and they said they'd send someone right over.
 The goat was still bashing against the fence,
@@ -175,7 +175,7 @@ and saw that not only was the top of its skull gone,
 but it's brains were gone, too.
 
 
-[<img src="/photos/unscathed/squirrel.jpg" align="right" width="200" />](/photos/unscathed/squirrel.jpg)
+[<img src="/images/unscathed/squirrel.jpg" align="right" width="200" />](/images/unscathed/squirrel.jpg)
 I looked at the other squirrels, and they were all the same.
 Tops of the heads gone, insides of the heads empty.
 There was even one

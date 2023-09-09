@@ -1,4 +1,4 @@
---- 
+---
 tags:
 - My Day
 date: "2007-03-09"
@@ -36,9 +36,10 @@ Thank you, Scott, for this wonderful guitar!
 
 Here are some pictures.  Click them to see larger images.
 
-[<img src="/photos/doc/front.jpg" alt="dale-o-caster front" title="dale-o-caster front" width="107" />](/photos/doc/front.jpg)
-[<img src="/photos/doc/bodyFront.jpg" alt="dale-o-caster front body" title="dale-o-caster front body" width="107" />](/photos/doc/bodyFront.jpg)
-[<img src="/photos/doc/bodyBack.jpg" alt="dale-o-caster back body" title="dale-o-caster back body" width="107" />](/photos/doc/bodyBack.jpg)
+[<img src="/images/doc/front.jpg" alt="dale-o-caster front" title="dale-o-caster front" width="107" />](/images/doc/front.jpg)
+[<img src="/images/doc/bodyFront.jpg" alt="dale-o-caster front body" title="dale-o-caster front body" width="107" />](/images/doc/bodyFront.jpg)
+[<img src="/images/doc/bodyBack.jpg" alt="dale-o-caster back body" title="dale-o-caster back body" width="107" />](/images/doc/bodyBack.jpg)
 
-[<img src="/photos/doc/label.jpg" alt="dale-o-caster label" title="dale-o-caster label" width="160" />](/photos/doc/label.jpg)
-[<img src="/photos/doc/head.jpg" alt="dale-o-caster head" title="dale-o-caster head" width="160" />](/photos/doc/head.jpg)
+[<img src="/images/doc/label.jpg" alt="dale-o-caster label" title="dale-o-caster label" width="160" />](/images/doc/label.jpg)
+[<img src="/images/doc/head.jpg" alt="dale-o-caster head" title="dale-o-caster head" width="160" />](/images/doc/head.jpg)
+
